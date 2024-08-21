@@ -1,3 +1,4 @@
+# How can I freeze the token account in Solana trading bots?
 # Token Freezer 
 
 Simple overview of user/purpose.
