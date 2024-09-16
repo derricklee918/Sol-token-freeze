@@ -1,5 +1,5 @@
-# How can I freeze the token account in Solana trading bots?
 # Token Freezer 
+### <i>How to freeze the token account in Solana trading bots?</i>
 
 Simple overview of user/purpose.
 
@@ -19,5 +19,5 @@ npm start
 ```
 
 ## Author
-Telegram: [@Takhi77](https://t.me/@Takhi77)
+Telegram: [@derricklee918](https://t.me/@derricklee918)
 
